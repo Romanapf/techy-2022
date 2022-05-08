@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <img className='fixed bottom-0 right-0 -z-10' src='/corner-bottom-right.png'/>
            <img className='fixed bottom-0 left-0 -z-10' src='/corner-bottom-left.png'/>
       </div>
-      <a className="bg-black text-white p-2 top-1/2 right-0 z-50 rounded-md border-black hover:border hover:bg-white hover:text-black cursor-pointer">👀 Cartel Techy 2022</a>
+      <a href="https://drive.google.com/file/d/1Zut9TuL4YnRIw60T27zqIk6y_vmMOhhM/view?usp=sharing" className="bg-black text-white p-2 top-1/2 right-0 z-50 rounded-md border-black hover:border hover:bg-white hover:text-black cursor-pointer">👀 Cartel Techy 2022</a>
     </ div>
     </>
   )

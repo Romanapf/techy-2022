@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-card__title{
+  background-color: #5768FF;
+
+}
+
+.text-title{
+  color: #1A1D32;
+  
+}
+
+.bg-card__description{
+  color: #1A1D32;
+}
+
+.bg-card__date{
+  color: #FFA600;
+  font-size: 1.2rem;
+}
+
+.particle {
+	position: absolute;
+ 	border-radius: 50%;
+}
+
+.text-autor{
+  color: #31CFA0;
+}

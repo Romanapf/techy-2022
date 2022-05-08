@@ -37,7 +37,7 @@ export const Card: React.FC<CardProps> = ({ title, description,date, autor }) =>
        
         <div className="flex flex-col items-start relative bg-card p-6 rounded-lg border max-w-2xl bg-white shadow-md overflow-hidden">
             <p className="bg-card__date mb-2 text-base font-semibold">{date}</p>
-            <h2 className="text-title text-lg font-semibold pb-1">{title}</h2>
+            <h2 className="text-title text-lg font-semibold pb-1.125">{title}</h2>
             <p className="bg-card__description">{description}</p>
             <p className="text-autor pt-2 font-medium">{autor}</p>
 

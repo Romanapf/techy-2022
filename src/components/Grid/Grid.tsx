@@ -68,20 +68,14 @@ export const Grid: React.FC = () => {
         },
         {
             date: "17:30",
-            title: "✨ Roadmap, equipos, formaciones y organigrama",
+            title: "✨ Roadmap, equipos y formaciones",
             description: "Javi nos hablará sobre los futuros planes de la compañía y de los equipos. Planes de carrera y formación.",
             autor: "Javi Villa"
         },
          {
             date: "18:00",
             title: "🎉 Cierre",
-            description: "Finalizamos la jornada, aprovechamos para ir al hotel, descansar y prepararnos para la cena.",
-        },
-        {
-            date: "20:00",
-            title: "🍻 Cañas y Tapas",
-            description: "Networking en forma de cerveza y tapas por Albacete.",
-            autor: "Departamento de Tecnología"
+            description: "¡Gracias por asistir a la jornada de tecnología!",
         }
     ]
 

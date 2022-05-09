@@ -3,7 +3,7 @@ import Head from 'next/head'
 export const Meta = () =>  {
   return (
     <Head>
-        <title>Techy 2022 </title>
+        <title>Techy 2022</title>
         <meta name="description" content="Techy 2022" />
      
       <link rel="manifest" href="../../../public/favicon.png" />

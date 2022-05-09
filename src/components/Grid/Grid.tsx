@@ -5,8 +5,8 @@ export const Grid: React.FC = () => {
  const horario = [
         {
             date: "9:30",
-            title: "☕️ 🥐 Desayuno y acreditaciones",
-            description: "¡Te invitamos a que te unas al desayuno en el que entregaremos las acreditaciones para el día de la tecnología!",
+            title: "☕️ 🥐 Desayuno",
+            description: "¡Te invitamos a que te unas al desayuno para empezar con buen pie las jornadas del departamento de IT!",
         },
         {
             date: "10:00",

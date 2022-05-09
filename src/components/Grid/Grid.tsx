@@ -6,7 +6,7 @@ export const Grid: React.FC = () => {
         {
             date: "9:30",
             title: "☕️ 🥐 Desayuno",
-            description: "¡Te invitamos a que te unas al desayuno para empezar con buen pie las jornadas del departamento de IT!",
+            description: "Desayuno para empezar con buen pie las jornadas del departamenteo del día de la tecnología",
         },
         {
             date: "10:00",

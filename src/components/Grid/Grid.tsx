@@ -31,12 +31,12 @@ export const Grid: React.FC = () => {
             title: "☕️ Café",
             description: "Break para tomar un café",   
         },
-        {
-            date: "13:00",
-            title: "✨ TRYTON ERP vs DINAMICS 365 BC",
-            description: "DATAlife DIH es el Hub de Innovación Digital para aplicar inteligencia artificial y big data en PYMES de los sectores primario, biotecnológico y salud.",
-            autor: "Sergio Morillo & Nicolás López (Datalife)"
-        },
+        // {
+        //     date: "13:00",
+        //     title: "✨ TRYTON ERP vs DINAMICS 365 BC",
+        //     description: "DATAlife DIH es el Hub de Innovación Digital para aplicar inteligencia artificial y big data en PYMES de los sectores primario, biotecnológico y salud.",
+        //     autor: "Sergio Morillo & Nicolás López (Datalife)"
+        // },
         {
             date: "13:30",
             title: "✨ Mejorar Experimentando",
